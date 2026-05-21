@@ -1,3 +1,4 @@
+[README_final.md](https://github.com/user-attachments/files/28116967/README_final.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,70:0d3258,100:1a4a8a&height=220&section=header&text=H%C3%BCseyincan%20Ergin&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Industrial%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Builder&descAlignY=60&descColor=a0c4ff&animation=fadeIn" />
@@ -39,7 +40,7 @@ I enjoy building projects that turn raw data into meaningful insights, especiall
 </td>
 <td valign="middle" width="35%" align="center">
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="240" alt="Coding"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260" alt="Coding with headphones"/>
 
 </td>
 </tr>
@@ -71,7 +72,7 @@ I enjoy building projects that turn raw data into meaningful insights, especiall
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,html&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -226,30 +227,6 @@ The goal is to improve customer trust by analyzing review patterns and generatin
 | 03 | Machine learning fundamentals | 📖 Learning |
 | 04 | AI project development | 🔥 **Active** |
 | 05 | Better dashboard storytelling | 📖 Learning |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<br/>
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=HuseyincanErgin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=1a4a8a&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyincanErgin&layout=compact&langs_count=7&theme=github_dark&border_color=1a4a8a&title_color=58a6ff&bg_color=0d1117"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HuseyincanErgin&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1a6ed8&point=58a6ff&area=true&area_color=0d2137&border_color=1a4a8a" width="95%"/>
 
 </div>
 
