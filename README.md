@@ -1,4 +1,4 @@
-[README_final.md](https://github.com/user-attachments/files/28116967/README_final.md)
+[README_final (1).md](https://github.com/user-attachments/files/28117043/README_final.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,70:0d3258,100:1a4a8a&height=220&section=header&text=H%C3%BCseyincan%20Ergin&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Industrial%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Builder&descAlignY=60&descColor=a0c4ff&animation=fadeIn" />
@@ -40,7 +40,7 @@ I enjoy building projects that turn raw data into meaningful insights, especiall
 </td>
 <td valign="middle" width="35%" align="center">
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260" alt="Coding with headphones"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260" alt="Developer working"/>
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ I enjoy building projects that turn raw data into meaningful insights, especiall
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,html&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,js,css,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
 <br/>
 
