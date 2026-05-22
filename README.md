@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Industrial+Engineering+%40+Marmara+University;Data+Analytics+%26+Visualization;AI-Powered+Decision+Support+Systems;Turning+Raw+Data+into+Real+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=0&pause=0&color=58A6FF&center=true&vCenter=true&width=750&lines=Industrial+Engineering+Student+%7C+Data+Analytics+%7C+AI+%26+Operations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,8 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hüseyincan-ergin)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuseyincanErgin)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=HuseyincanErgin&style=for-the-badge&color=1a6ed8&label=PROFILE+VIEWS)](https://github.com/HuseyincanErgin)
 
 </div>
 
@@ -39,7 +37,7 @@ I enjoy building projects that turn raw data into meaningful insights, especiall
 </td>
 <td valign="middle" width="35%" align="center">
 
-<img src="./about_me.gif" width="260" alt="Developer working"/>
+<img src="https://raw.githubusercontent.com/HuseyincanErgin/HuseyincanErgin/main/about_me.gif" width="260" alt="Developer working"/>
 
 </td>
 </tr>
